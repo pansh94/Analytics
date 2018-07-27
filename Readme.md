@@ -17,7 +17,7 @@ This includes :
   1. Descriptive analysis.
   2. Graphs. 
 
-### 3. Analysis od Data :
+### 3. Analysis of Data :
 This includes :
   1. Explore relationship between variable.
   2. Compare groups.
